@@ -1,0 +1,1 @@
+bat-v0.22.1-x86_64-unknown-linux-musl/bat
